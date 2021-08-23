@@ -23,3 +23,5 @@
 <a href="mailto:vinioli544@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="_blank"></a>
 <a href="https://t.me/vinicius_54" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/vini54/vini54/blob/output/github-contribution-grid-snake.svg)
