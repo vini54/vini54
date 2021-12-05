@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá!! Meu nome é Vinícius</h1>
-<div align="center">
+<div align="left">
   <p>✨ Desenvolvedor Front-end</p>
   <p>📚 Atualmente estudando React.js</p>
   <p>⚡ 19 anos</p>
