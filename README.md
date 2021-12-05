@@ -8,8 +8,7 @@
 <p align="center">📚 Atualmente estudando React.js</p>
 <p align="center">⚡ 19 anos</p>
 
-
-<br><br><br><br>
+<br><br><br><br><br>
 
 <div align="center">
   <a href="https://github.com/vini54/">
