@@ -1,16 +1,18 @@
 
 <h1 align="center">Olá!! Meu nome é Vinícius</h1>
-<div align="center">
-  <p>✨ Desenvolvedor Front-end</p>
-  <p>📚 Atualmente estudando React.js</p>
-  <p>⚡ 19 anos</p>
-</div>
+<br>
 
-##
+<p align="left">✨ Desenvolvedor Front-end</p>
+
+<p align="left">📚 Atualmente estudando React.js</p>
+
+<p align="left">⚡ 19 anos</p>
+
+<img width="40%" align="right" src="https://raw.githubusercontent.com/vini54/vini54/ab9b5dc0bf1a7eed7eb8d37424955b2a402743b6/undraw_in_sync_re_jlqd.svg" alt="illustration" />
+
+<br>
 
 <p>
-  <img width="300px" align="right" src="https://raw.githubusercontent.com/vini54/vini54/ab9b5dc0bf1a7eed7eb8d37424955b2a402743b6/undraw_in_sync_re_jlqd.svg" alt="illustration" />
-
 <div align="center">
   <a href="https://github.com/vini54/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini54&show_icons=true&hide=prs&theme=midnight-purple"/> <br>
