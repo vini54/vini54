@@ -7,6 +7,8 @@
 <p align="center">✨ Desenvolvedor Front-end</p>
 <p align="center">📚 Atualmente estudando React.js</p>
 <p align="center">⚡ 19 anos</p>
+
+
 <br><br><br><br>
 
 <div align="center">
