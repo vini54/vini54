@@ -5,9 +5,10 @@
   <p>📚 Atualmente estudando React.js</p>
   <p>⚡ 19 anos</p>
 </div>
-<img width="400px" align="right" src="https://raw.githubusercontent.com/vini54/vini54/ab9b5dc0bf1a7eed7eb8d37424955b2a402743b6/undraw_in_sync_re_jlqd.svg" alt="illustration" />
 
 ##
+
+<img width="400px" align="right" src="https://raw.githubusercontent.com/vini54/vini54/ab9b5dc0bf1a7eed7eb8d37424955b2a402743b6/undraw_in_sync_re_jlqd.svg" alt="illustration" />
 
 <div align="center">
   <a href="https://github.com/vini54/">
