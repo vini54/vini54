@@ -8,13 +8,17 @@
 
 ##
 
-<img width="400px" align="right" src="https://raw.githubusercontent.com/vini54/vini54/ab9b5dc0bf1a7eed7eb8d37424955b2a402743b6/undraw_in_sync_re_jlqd.svg" alt="illustration" />
+<p>
+  <img width="400px" align="right" src="https://raw.githubusercontent.com/vini54/vini54/ab9b5dc0bf1a7eed7eb8d37424955b2a402743b6/undraw_in_sync_re_jlqd.svg" alt="illustration" />
 
 <div align="center">
   <a href="https://github.com/vini54/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini54&show_icons=true&hide=prs&theme=midnight-purple"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini54&theme=midnight-purple&layout=compact"/>
 </div>
+</p>
+
+
   
 <div style="display: inline-block" align="center">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="vini_html">
