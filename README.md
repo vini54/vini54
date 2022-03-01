@@ -1,29 +1,46 @@
 
-<h1 align="center">Olá!! Meu nome é Vinícius</h1>
-<br>
+<h1 align="center">Olá!! Eu sou o Vinícius ✨</h1>
 
-<img width="400px" align="right" src="https://raw.githubusercontent.com/vini54/vini54/ab9b5dc0bf1a7eed7eb8d37424955b2a402743b6/undraw_in_sync_re_jlqd.svg" alt="illustration" />
+```js
 
-<p align="center">✨ Desenvolvedor Front-end</p>
-<p align="center">📚 Atualmente estudando React.js</p>
-<p align="center">⚡ 19 anos</p>
+const Vinicius = (developer >= 1y) => {
 
-<br><br><br><br><br>
-
-<div align="center">
-  <a href="https://github.com/vini54/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini54&show_icons=true&hide=prs&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini54&theme=midnight-purple&layout=compact"/>
-</div>
+  const Programmer = "Front-end";
   
+  if (Stacks) {
+  
+    return `${Javascript} + ${Typescript} + ${HTML} + ${CSS, SASS}`
+    
+  } else if (Frameworks and Libs) {
+    
+    return `${React, Styled-Components} + ${React-Native} + ${Bootstrap}`
+    
+  } else if (Tools) {
+  
+    return `${VsCode} + ${Figma} + ${Git} + ${Postman}`
+  
+  }
+  
+}
+
+```
+
 <div style="display: inline-block" align="center">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="vini_html">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="vini_css">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="vini_js">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" alt="vini_Sass">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="vini_type">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="vini_react">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="vini_figma">
   
+</div>
+
+<br><br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vini54&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 ##
