@@ -39,7 +39,7 @@ const Vinicius = (developer >= 1y) => {
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vini54&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vini54&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
