@@ -21,6 +21,8 @@ const Vinicius = (developer >= 1y) => {
   
   }
   
+  let learning = NodeJS
+  
 }
 
 ```
