@@ -13,11 +13,11 @@ const Vinicius = (developer >= 1y) => {
     
   } else if (Frameworks and Libs) {
     
-    return `${React, Styled-Components} + ${React-Native} + ${Bootstrap}`
+    return `${React, Styled-Components} + ${React-Native} + ${Tailwind}`
     
   } else if (Tools) {
   
-    return `${VsCode} + ${Figma} + ${Git} + ${Postman}`
+    return `${VsCode} + ${Figma} + ${Git} + ${Insomnia}`
   
   }
   
