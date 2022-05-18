@@ -3,7 +3,7 @@
 
 ```js
 
-const Vinicius = (developer >= 1y) => {
+const Vinicius = (developer > 1y) => {
 
   const Programmer = "Front-end";
   
