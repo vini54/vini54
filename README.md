@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá!! Eu sou o Vinícius ✨</h1>
+<h1 align="start">Vinícius Oliveira 💫</h1>
 
 ```js
 
