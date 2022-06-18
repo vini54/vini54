@@ -53,4 +53,4 @@ const Vinicius = (developer > 1y) => {
 <a href="https://t.me/vinicius_54" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/vini54/vini54/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/vini54/vini54/blob/output/github-contribution-grid-snake.svg) -->
