@@ -3,26 +3,20 @@
 
 ```js
 
-const Vinicius = (developer > 1y) => {
+const Vinicius = (quest, developer > 1y) => {
 
-  const Programmer = "Front-end";
-  
-  if (Stacks) {
-  
-    return `${Javascript} + ${Typescript} + ${HTML} + ${CSS, SASS}`
+  switch (quest) {
+    case "Stacks":
+      return `${Javascript} + ${Typescript} + ${HTML, CSS}`;
     
-  } else if (Frameworks and Libs) {
+    case "Frameworks and Libs":
+      return `${React} + ${React-Native}`
     
-    return `${React, Styled-Components} + ${React-Native} + ${Tailwind}`
-    
-  } else if (Tools) {
-  
-    return `${VsCode} + ${Figma} + ${Git} + ${Insomnia}`
-  
+    case "Tools":
+      return `${VsCode} + ${Figma} + ${Git} + ${Insomnia}`
   }
   
-  let learning = Node.js;
-  
+  let learning = ["Node.js", "lua"];
 }
 
 ```
