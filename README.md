@@ -16,7 +16,7 @@ const Vinicius = (quest, developer > 1y) => {
       return `${VsCode} + ${Figma} + ${Git} + ${Insomnia}`
   }
   
-  let learning = ["Node.js", "lua"];
+  let learning = ["Node", "lua"];
 }
 
 ```
