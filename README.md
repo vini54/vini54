@@ -3,7 +3,7 @@
 
 ```js
 
-const Vinicius = (quest, developer > 1y) => {
+const Vinicius = (quest, developer > 2y) => {
 
   switch (quest) {
     case "Stacks":
