@@ -10,10 +10,10 @@ const Vinicius = (quest, developer > 2y) => {
       return `${Javascript} + ${Typescript} + ${HTML, CSS}`;
     
     case "Frameworks and Libs":
-      return `${React} + ${React-Native}`
+      return ["React", "Next.js", "Tailwind.css", "React-native", "Node.js"];
     
     case "Tools":
-      return `${VsCode} + ${Figma} + ${Git} + ${Insomnia}`
+      return `${VsCode} + ${Figma} + ${Git} + ${Insomnia}`;
   }
   
   let learning = ["Node", "lua"];
