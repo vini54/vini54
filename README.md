@@ -3,7 +3,7 @@
 
 ```js
 
-const Vinicius = (quest, developer > 2y) => {
+const Vinicius = (quest, developer > 3y) => {
 
   switch (quest) {
     case "Stacks":
@@ -16,7 +16,7 @@ const Vinicius = (quest, developer > 2y) => {
       return `${VsCode} + ${Figma} + ${Git} + ${Insomnia}`;
   }
   
-  let learning = ["Node", "Flutter"];
+  let learning = ["Node"];
 }
 
 ```
